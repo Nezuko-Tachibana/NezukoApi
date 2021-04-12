@@ -1,5 +1,7 @@
-# NezukoApi
-Nezuko Api In Modules Npmjs
+<img src="img/image.png" />
+
+<h1 class="text-align">Nezuko API</h1>
+<p class="text-align">Simple API Modules Npmjs</p>
 
 Installation
 ```js
