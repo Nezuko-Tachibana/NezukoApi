@@ -5,7 +5,7 @@ Installation
 ```js
 npm i nezuko-api
 ```
-
+Usage
 ```js
 const nezuko = require("nezuko-api")
 
