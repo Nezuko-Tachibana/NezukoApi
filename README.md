@@ -1,7 +1,7 @@
 <img src="img/image.png" />
 
-<h1 class="text-align">Nezuko API</h1>
-<p class="text-align">Simple API Modules Npmjs</p>
+<h1 align="center">Nezuko API</h1>
+<p align="center">Simple API Modules Npmjs</p>
 
 Installation
 ```js
