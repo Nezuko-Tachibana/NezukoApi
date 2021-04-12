@@ -1,0 +1,27 @@
+{
+  "name": "nezuko-api",
+  "version": "1.0.0",
+  "description": "Nezuko Api In Modules Npmjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nezuko-Tachibana/NezukoApi.git"
+  },
+  "keywords": [
+    "nezuko",
+    "api",
+    "nezukotachibana"
+  ],
+  "author": "NezukoTachibana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nezuko-Tachibana/NezukoApi/issues"
+  },
+  "homepage": "https://github.com/Nezuko-Tachibana/NezukoApi#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
