@@ -11,9 +11,19 @@ Usage
 ```js
 const nezuko = require("nezuko-api")
 
-nezuko.yta(YOUR_URL).then(async(res) => {
+nezuko.yta("http://www.youtube.com/watch?v=ucjKhemaCuM").then(async(res) => {
   // YouTube Download Audio
-  console.log(res)
+  return console.log(res)
+})
+
+nezuko.fbdl("https://www.facebook.com/alanwalkermusic/videos/277641643524720").then(async(res) => {
+  // Facebook Media Download
+  return console.log(res)
+})
+
+nezuko.igdl("https://www.instagram.com/p/CNXuBZZnOEj/?igshid=12svpjrvkmd75").then(async(res) => {
+  // Instagram Media Download
+  return console.log(res)
 })
 ```
 
